@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.header {
+  background-color: rgba(222, 69, 69, 1);
+  height: 15vh;
+}
+
+.main {
+  background-color: rgba(95, 224, 201, 1);
+  height: 85vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 32px;
+}
